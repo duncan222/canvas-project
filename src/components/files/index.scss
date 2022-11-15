@@ -1,0 +1,151 @@
+.files-page {
+    position: relative;
+    left: 5%;
+    width: 78%; 
+    max-width: 78%;
+    margin-left: 10px;
+    height: 100%;
+    max-height: 99%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.addButton {
+    position: relative;
+    width: 150px;
+    height: 50px;
+    background-color: lightgreen;
+    border-style: solid;
+    border-color: black;
+    border-radius: 12px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+/*.uiCont {
+    position: relative;
+}
+
+.pythonCont {
+    position: relative;
+}
+
+.ubwCont {
+    position: relative;
+}
+
+.p1Cont {
+    position: relative;
+}
+
+.p2Cont {
+    position: relative;
+}*/
+
+.folderCont {
+    position: relative;
+}
+
+.classFolder {
+    width: 1250px;
+    height: 55px;
+    padding-top: 20px;
+    background-color: lightblue;
+    border-style: solid;
+    border-color: black;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+
+    img {
+        height: 51px;
+        width: 60px;
+        padding-right: 15px;
+        padding-left: 15px;
+        vertical-align: middle;
+        bottom: 10px;
+    }
+}
+
+.personalFolder {
+    width: 1250px;
+    height: 55px;
+    padding-top: 20px;
+    background-color: lightgreen;
+    border-style: solid;
+    border-color: black;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+
+    img {
+        height: 51px;
+        width: 60px;
+        padding-right: 15px;
+        padding-left: 15px;
+        vertical-align: middle;
+    }
+}
+
+.folderExtend {
+    position: relative;
+    height: 30px;
+    width: 1250px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    background-color: lightgray;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    text-indent: 15px;
+    margin-left: 3px;
+    //visibility: hidden;
+
+    img {
+        height: 30px;
+        width: 30px;
+        background-color: lightgray;
+    }
+}
+
+.fileExtend {
+    position: relative;
+    height: 20px;
+    width: 1250px;
+    border-style: solid;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    text-indent: 25px;
+    margin-left: 3px;
+    //visibility: hidden;
+
+    img {
+        height: 20px;
+        width: 20px;
+        background-color: lightgray;
+    }
+}
+
+.header {
+    font-size: 40px;
+    margin-left: 7px;
+}
+
+.arrow {
+    float: right;
+    margin-right: 5px;
+    border-style: none;
+    background-color: transparent;
+}
+
+.ul {
+    text-underline-offset: 6px;
+}
+

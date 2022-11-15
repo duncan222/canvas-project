@@ -90,8 +90,9 @@ const Home = () => {
           __________________________________________________________
         </h2>
         <br />
-        <button id="button"> UI Project 2 extended 11/18/2022 </button>
-        <button id="button"> Underwater basket weaving at 8:00pm </button>
+        <button id="button"> UI Design: Project 2 </button>
+        <button id="button"> Bubble Sort Assignment </button>
+        <button id="button"> Basket Prototypes Due </button>
       </div>
     </div>
   );
