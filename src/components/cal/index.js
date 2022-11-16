@@ -8,8 +8,7 @@ import moment from "moment";
 import withDragAndDrop from "react-big-calendar/lib/addons/dragAndDrop";
 import "react-big-calendar/lib/addons/dragAndDrop/styles.css";
 import "react-big-calendar/lib/css/react-big-calendar.css";
-import SideGoals from "../SideGoals";
-import "../SideGoals/index.scss";
+import SideGoalsMain from "../SideGoalsMain/thedex";
 
 const localizer = momentLocalizer(moment);
 
@@ -45,7 +44,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <SideGoals />
+        <SideGoalsMain />
         <div className="Cal-Position">
           <div className="App">
             <DnDCalendar

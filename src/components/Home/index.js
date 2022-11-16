@@ -7,13 +7,11 @@ import files from "../../images/files2.png";
 import anounce from "../../images/anouncment.png";
 import assign from "../../images/assignment.png";
 import grades from "../../images/grades.png";
-import SideGoals from "../SideGoals";
-import "../SideGoals/index.scss";
+import SideGoalsMain from "../SideGoalsMain/thedex";
 
 const Home = () => {
   return (
     <div className="container home-page">
-      <SideGoals />
       <div className="course-zone">
         <h1>
           {" "}
@@ -93,6 +91,7 @@ const Home = () => {
         <button id="button"> UI Project 2 extended 11/18/2022 </button>
         <button id="button"> Underwater basket weaving at 8:00pm </button>
       </div>
+      <SideGoalsMain />
     </div>
   );
 };

@@ -2,9 +2,11 @@ import "./index.scss";
 import "../Layout/index.scss";
 import React from "react";
 import { useState, useEffect } from "react";
+import arrow from "../../images/arrow-down.png";
+import seth from "../../images/Seth.png";
 
 const Icon = () => {
-  return <img src="../src/images/arrow-down.png" />;
+  return <img className="arrow" src={arrow} />;
 };
 
 const options = [
@@ -92,9 +94,14 @@ const Profile = () => {
   return (
     <div className="container profile-page">
       <div className="text-zone">
-        <h1>Profile</h1>
+        <h4>
+          Seth <br />
+          ___________________________
+        </h4>
       </div>
       <div>
+        <br />
+        <br />
         <h1 className="myText">Customization</h1>
       </div>
       <div position="relative">
@@ -104,6 +111,8 @@ const Profile = () => {
       <div position="relative" left="600px">
         <Dropdown placeHolder="Color" options={options2} />
       </div>
+      <img src={seth} className="seth" />
+      <div className="picOp"> change profile picture</div>
       <button className="button">Sign Out</button>
     </div>
   );

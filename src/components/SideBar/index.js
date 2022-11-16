@@ -1,7 +1,7 @@
 import { Link, NavLink } from "react-router-dom";
 import "./index.scss";
 import ucLogo from "../../images/logo.png";
-import profile from "../../images/profile.png";
+import profile from "../../images/Seth.png";
 import courses from "../../images/book.png";
 import cal from "../../images/cal.png";
 import files from "../../images/files.png";

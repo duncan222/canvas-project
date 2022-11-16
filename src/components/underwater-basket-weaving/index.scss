@@ -79,3 +79,33 @@
 
 
     }
+
+    h2{
+        font-size: 18px;
+    }
+
+    .syl{ 
+        width: 200px;
+        height: 50px;
+        margin-left:  15%;
+        position: absolute;
+    }
+
+    .anounce{ 
+        background-color: rgb(224, 221, 221);
+        h2{
+            color: red;
+            margin-inline: 8px;
+        }
+        width: 590px; 
+        color: black;
+        font-weight: 800;
+        body{
+            margin-inline: 8px;
+            max-width: 580px;
+        }
+        //margin-inline: 8px;
+        //margin-inline-end: 8px;
+        border-radius: 5% 5% 5% 5% ;
+        
+    }
