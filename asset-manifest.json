@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/canvas-project/static/css/main.53d84c9b.css",
-    "main.js": "/canvas-project/static/js/main.97898129.js",
+    "main.css": "/canvas-project/static/css/main.c84cdf04.css",
+    "main.js": "/canvas-project/static/js/main.7e0bfe02.js",
     "static/js/787.50126498.chunk.js": "/canvas-project/static/js/787.50126498.chunk.js",
     "static/media/PYBONUS.pdf": "/canvas-project/static/media/PYBONUS.4b7a53212429d873d68a.pdf",
     "static/media/UIP1.pdf": "/canvas-project/static/media/UIP1.cb6c31ca4187261ada3a.pdf",
@@ -36,12 +36,12 @@
     "static/media/files2.png": "/canvas-project/static/media/files2.42923a02f5aea020f506.png",
     "static/media/back.png": "/canvas-project/static/media/back.24cf6a0bdcc83512d1c0.png",
     "index.html": "/canvas-project/index.html",
-    "main.53d84c9b.css.map": "/canvas-project/static/css/main.53d84c9b.css.map",
-    "main.97898129.js.map": "/canvas-project/static/js/main.97898129.js.map",
+    "main.c84cdf04.css.map": "/canvas-project/static/css/main.c84cdf04.css.map",
+    "main.7e0bfe02.js.map": "/canvas-project/static/js/main.7e0bfe02.js.map",
     "787.50126498.chunk.js.map": "/canvas-project/static/js/787.50126498.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53d84c9b.css",
-    "static/js/main.97898129.js"
+    "static/css/main.c84cdf04.css",
+    "static/js/main.7e0bfe02.js"
   ]
 }
