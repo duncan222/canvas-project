@@ -1,0 +1,107 @@
+.sidePhoto{ 
+    height: 48px; 
+    width: 60px;
+    background-color: rgb(53, 59, 66); 
+}
+.sidePhoto1{ 
+    height: 58px; 
+    width: 70px;
+    background-color: rgb(9, 9, 12); 
+}
+
+.sidePhoto2{ 
+    height: 68px; 
+    width: 75px;
+    background-color: rgb(53, 59, 66); 
+}
+
+.sideButtons{
+    width: 90px;
+    margin-right: auto;
+    background-color: rgb(53, 59, 66);  
+    box-sizing: border-box;
+}
+
+.side{ 
+    margin: 0px;
+}
+
+.leftB{ 
+    position:relative;
+    height: 110px; 
+    width: 90px;
+    background-color: rgb(9, 9, 12); 
+    box-shadow: none;
+}
+.leftB1{
+    position:relative;
+    height: 78px; 
+    width: 90px;
+    left: 0%; 
+    bottom: ;
+    background-color: rgb(53, 59, 66); 
+    box-shadow: none;
+    border-style: hidden;
+
+}
+.leftB2{ 
+    position: relative; 
+    height: 78px; 
+    width: 90px;
+    bottom: 72.9%;
+    left: 0%;
+    background-color: rgb(53, 59, 66); 
+    border-style: hidden;
+    box-shadow: none;
+
+}
+.leftB3{
+    position: relative;
+    height: 78px; 
+    width: 90px;
+    bottom: 66.4%; 
+    left: 0%; 
+    background-color: rgb(53, 59, 66); 
+    border-style: hidden;
+    box-shadow: none;
+
+}
+.leftB4{
+    position: relative; 
+    height: 78px; 
+    width: 90px;
+    bottom: 58%; 
+    left: 0%; 
+    background-color: rgb(53, 59, 66); 
+    border-style: hidden;
+    box-shadow: none;
+
+}
+
+.leftB5{
+    position: relative; 
+    height: 78px; 
+    width: 90px;
+    bottom: 60%; 
+    left: 0%; 
+    background-color: rgb(53, 59, 66); 
+    border-style: hidden;
+    box-shadow: none;
+
+}
+
+.sideBar{
+    bottom:70%;
+    background-color:rgb(53, 59, 66);
+    height:700px;
+    width: 90px;
+    position: relative;
+    border-radius: 0,0,0,0;
+    color:rgb(53, 59, 66);
+    flex-grow: inherit;
+    box-shadow: none;
+    
+
+}
+
+
