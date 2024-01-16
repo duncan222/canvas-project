@@ -26,7 +26,7 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Layout />}>
+        <Route path="duncan222.github.io/canvas-project" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="/profile" element={<Profile />} />
           <Route path="/cal" element={<Calendar />} />
