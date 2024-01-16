@@ -1,5 +1,4 @@
 import "./App.scss";
-import React, { Component } from 'react';
 import { Routes, Route } from "react-router-dom";
 import Layout from "./components/Layout";
 import Home from "./components/Home";
